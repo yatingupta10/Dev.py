@@ -1,2 +1,2 @@
 # Dev.py
-IEEE MSIT Computer Science Python SIG
+IEEE MSIT Computer Science Society, Python SIG
