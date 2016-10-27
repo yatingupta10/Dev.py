@@ -1,0 +1,8 @@
+1.Virtual Environment
+  1. Using python
+  http://docs.python-guide.org/en/latest/dev/virtualenvs/ 
+  2. Using anaconda
+  https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+
+2.Django
+  pip install django~=1.9.0
